@@ -8,7 +8,8 @@ Welcome! This guide will walk you through deploying your Book Management app on 
    - An AWS account with proper access permissions.
    - Basic familiarity with AWS services, Git, and the command line.
 
-## Step-by-Step Deployment
+## Step-by-Step Deployment![Screenshot from 2023-08-20 22-07-45](https://github.com/Ansam-02/Deployment-BookManagement/assets/137777479/bdbdccfe-5b72-47fe-b788-fffc778d35fd)
+
     Follow these steps to deploy your app:
 
   
