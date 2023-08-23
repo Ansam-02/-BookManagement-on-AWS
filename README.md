@@ -1,7 +1,6 @@
 # Book Management App Deployment on AWS
 
-Welcome to the Book Management App Deployment project! This guide will walk you through deploying your Book Management app on Amazon Web Services (AWS). Our deployment strategy utilizes AWS services for scalability, reliability, and ease of management. Whether you're an AWS newcomer or an experienced developer, this README will guide you through the deployment process.
-Prerequisites
+Welcome! This guide will walk you through deploying your Book Management app on Amazon Web Services (AWS). 
 
 ## Before you proceed, ensure you have:
 
@@ -14,7 +13,7 @@ Prerequisites
 
   
 Step 1: Prepare Your App and Repository
- ![test your app](https://example.com/images/example.jpg)
+ ![create a release](file:///home/ansam/Pictures/Screenshots/Screenshot%20from%202023-08-23%2017-31-24.png)
 
 
 Ensure your app is ready and available on a GitHub repository.
