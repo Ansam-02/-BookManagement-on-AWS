@@ -80,8 +80,5 @@ For more information and troubleshooting, consult the AWS documentation and reso
 
 Feel free to contribute to this tutorial by making pull requests.
 
-## License
 
-This project is licensed under [Your License].
-
-Happy Deploying!
+## Happy Deploying!
